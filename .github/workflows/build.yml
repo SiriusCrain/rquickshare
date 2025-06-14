@@ -102,7 +102,7 @@ jobs:
           rm -rf ${{ github.workspace }}/${{ matrix.target_path }}/src-tauri/target/debug/bundle/
           cd ./${{ matrix.target_path }}
           pnpm install
-          pnpm build
+          pnpm build:debug
           cd ${{ github.workspace }}
           ./rename_build.sh ${{ github.workspace }}/${{ matrix.target_path }}/src-tauri/target/debug/bundle/ ${{ matrix.name }}
 
