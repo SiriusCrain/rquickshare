@@ -6,8 +6,8 @@
   </p>
   <p>
 
-[![CI](https://github.com/Martichou/rquickshare/actions/workflows/build.yml/badge.svg)](https://github.com/Martichou/rquickshare/actions)
-[![CI](https://github.com/Martichou/rquickshare/actions/workflows/lint.yml/badge.svg)](https://github.com/Martichou/rquickshare/actions)
+[![CI](https://github.com/SiriusCrain/rquickshare/actions/workflows/build.yml/badge.svg)](https://github.com/SiriusCrain/rquickshare/actions)
+[![CI](https://github.com/SiriusCrain/rquickshare/actions/workflows/lint.yml/badge.svg)](https://github.com/SiriusCrain/rquickshare/actions)
 
   </p>
 </div>
